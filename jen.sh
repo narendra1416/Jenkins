@@ -1,6 +1,6 @@
 #!/bin/bash
 #storing the number to be checked 
-number=43 
+number=45 
 i=2 
 
 #flag variable 
